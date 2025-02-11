@@ -1,0 +1,10 @@
+venv
+logs
+Networksecurity.egg-info
+Artifacts
+__pycache__
+/.env
+mlruns
+.astro
+.dockerignore
+Notebook
